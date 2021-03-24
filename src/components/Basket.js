@@ -7,8 +7,9 @@ const Basket = ({ cartItems, onAdd, onRemove, remove }) => {
   return (
     <BasketCont>
       <Header>
-        You Have <span>{cartItems.length === 0 ? "0" : cartItems.length}</span>{" "}
-        Items In The Order-Box
+        You Have
+        <span>{cartItems.length === 0 ? "0" : cartItems.length}</span> Items In
+        The Order-Box
       </Header>
       <Content>
         {cartItems.map((item) => {

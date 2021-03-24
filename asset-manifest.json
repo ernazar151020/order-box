@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/order-box/static/css/main.07b232a4.chunk.css",
+    "main.js": "/order-box/static/js/main.77baff0a.chunk.js",
+    "main.js.map": "/order-box/static/js/main.77baff0a.chunk.js.map",
+    "runtime-main.js": "/order-box/static/js/runtime-main.37b4ad8a.js",
+    "runtime-main.js.map": "/order-box/static/js/runtime-main.37b4ad8a.js.map",
+    "static/js/2.7db5fd83.chunk.js": "/order-box/static/js/2.7db5fd83.chunk.js",
+    "static/js/2.7db5fd83.chunk.js.map": "/order-box/static/js/2.7db5fd83.chunk.js.map",
+    "index.html": "/order-box/index.html",
+    "static/css/main.07b232a4.chunk.css.map": "/order-box/static/css/main.07b232a4.chunk.css.map",
+    "static/js/2.7db5fd83.chunk.js.LICENSE.txt": "/order-box/static/js/2.7db5fd83.chunk.js.LICENSE.txt",
+    "static/media/cola.png": "/order-box/static/media/cola.c20cbb47.png",
+    "static/media/hot-dog.png": "/order-box/static/media/hot-dog.f4d70ced.png",
+    "static/media/pizza.png": "/order-box/static/media/pizza.bbddb285.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37b4ad8a.js",
+    "static/js/2.7db5fd83.chunk.js",
+    "static/css/main.07b232a4.chunk.css",
+    "static/js/main.77baff0a.chunk.js"
+  ]
+}
